@@ -1,0 +1,29 @@
+* {
+    background-color: lightcoral;
+    font-family: "Arial", sans-serif;
+}
+
+ul.main, h1 {
+    text-align: center;
+}
+
+ul.main {
+    display: block;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.main li {
+    list-style-type: none;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
